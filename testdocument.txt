@@ -1,2 +1,3 @@
-T�m� on testitiedosto.
+﻿T�m� on testitiedosto.
 Tämä on toinen rivi.
+Tämä on kolmas rivi.
