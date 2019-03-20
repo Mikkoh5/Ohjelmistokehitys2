@@ -1,1 +1,2 @@
-Tämä on testitiedosto.
+Tï¿½mï¿½ on testitiedosto.
+TÃ¤mÃ¤ on toinen rivi.
